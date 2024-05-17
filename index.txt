@@ -1,10 +1,10 @@
-Tourest - Explore the World
+TourSnap - Explore the World
 
 
 
 #.......... HEADER ..........#
 
-Tourest
+TourSnap
 
 aria-label = Toggle Menu
 <ion-icon name="menu-outline"></ion-icon>
@@ -174,9 +174,9 @@ placeholder = Email address
 
 Subscribe
 
-Tourest
+TourSnap
 
-&copy; 2022 codewithsadee. All Rights Reserved
+&copy; 2024 codewithsadee. All Rights Reserved
 
 <ion-icon name="logo-facebook"></ion-icon>
 <ion-icon name="logo-twitter"></ion-icon>
